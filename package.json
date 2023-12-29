@@ -1,0 +1,23 @@
+{
+  "name": "airbnb_clone_html-css",
+  "version": "1.0.0",
+  "description": "This is a project to develop static Airbnb Clone homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/TseyiMayuku/Airbnb_Clone_html-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TseyiMayuku/Airbnb_Clone_html-css/issues"
+  },
+  "homepage": "https://github.com/TseyiMayuku/Airbnb_Clone_html-css#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.6"
+  }
+}
