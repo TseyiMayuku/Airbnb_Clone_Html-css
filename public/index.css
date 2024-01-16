@@ -78,7 +78,7 @@
     align-items: center;
     justify-content: center;
     /* padding: 0 20px 0 10px; */
-    gap: 15px;
+    /* gap: 35px; */
 }
 
 
@@ -88,21 +88,41 @@
     padding: 8px 15px;
     border-radius: 25px;
     border: none;
-    background-color: pink;
+    background-color: rgb(241, 238, 238);
+    font-weight: 600;
+    margin: 0 5px 0 0;
 }
 
 .HomeButton:hover{
-    background-color: rgb(241, 238, 238);
-    font-weight: 500;
+    background-color: lightgray;
 }
 
 .userMenu{
-    width: 15%;
-    padding: 10px;
-    border: 1px solid black;
-    background-color: brown;
+    width: 20%;
+    border: 1px solid grey;
+    border-radius: 35px;
+    padding: 15px;
+    background-color: transparent;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 8px;
+    margin: 0 25px 0 0;
+}
+
+.userMenu:hover{
+    background-color: rgb(252, 247, 247);
+    box-shadow: 8px 8px grey;
+}
+
+.material-symbols-outlined{
+    padding: 8px;
+    margin: 0 5px 0 0;
+    background-color: transparent;
+}
+
+
+.material-symbols-outlined:hover{
+    background-color: lightgray;
+    border-radius: 35px;
 }
